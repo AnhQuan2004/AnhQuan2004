@@ -54,13 +54,6 @@ Hi! I'm **Anh Quan**, a passionate and detail-oriented AI & Data Engineer. I spe
 
 ---
 
-### 🧠 Projects (Selected)
-
-- **[Bing Search Analytics](https://github.com/AnhQuan2004/Bing-Search-Data-Analytics)**: Dashboarding and analytics from search engine queries  
-- **MindWell AI**: Full-stack AI-based mental health chatbot with OpenAI + custom backend/frontend
-
----
-
 ### 🎖️ Achievements
 
 - 🥉 **3rd Place** – mAInia Hackathon 2025  
