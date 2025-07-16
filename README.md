@@ -2,10 +2,9 @@
 
 🎓 AI & Data Engineering | 🤖 AI Engineer @ GFI Group  
 📍 Ho Chi Minh City, Vietnam  
-📧 [anhquan200304@gmail.com](mailto:anhquan200304@gmail.com) | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/AnhQuan2004) | [Portfolio](nguyenanhquan.online)
+📧 [anhquan200304@gmail.com](mailto:anhquan200304@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/anhquan2003) | 🐙 [GitHub](https://github.com/AnhQuan2004) | 🌐 [Portfolio](https://nguyenanhquan.online)
 
 ---
-
 ### 🚀 About Me
 
 Hi! I'm **Anh Quan**, a passionate and detail-oriented AI & Data Engineer. I specialize in building **scalable AI applications**, optimizing **cloud data pipelines**, and conducting **applied NLP research**. My work spans from **RAG systems** and **chatbots** to **pipelines** and **cloud-native architectures**.
