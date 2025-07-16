@@ -62,12 +62,6 @@ Hi! I'm **Anh Quan**, a passionate and detail-oriented AI & Data Engineer. I spe
 
 ---
 
-### 📈 GitHub Stats
-
-![AnhQuan2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhQuan2004&show_icons=true&theme=tokyonight)
-
----
-
 ### 🎖️ Achievements
 
 - 🥉 **3rd Place** – mAInia Hackathon 2025  
