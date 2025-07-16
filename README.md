@@ -2,7 +2,7 @@
 
 🎓 AI & Data Engineering | 🤖 AI Engineer @ GFI Group  
 📍 Ho Chi Minh City, Vietnam  
-📧 [anhquan200304@gmail.com](mailto:anhquan200304@gmail.com) | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/AnhQuan2004)
+📧 [anhquan200304@gmail.com](mailto:anhquan200304@gmail.com) | 🌐 [LinkedIn](#) | 🐙 [GitHub](https://github.com/AnhQuan2004) | [Portfolio](nguyenanhquan.online)
 
 ---
 
