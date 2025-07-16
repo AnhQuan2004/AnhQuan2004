@@ -14,7 +14,7 @@ Hi! I'm **Anh Quan**, a passionate and detail-oriented AI & Data Engineer. I spe
 ### 🛠️ Tech Stack
 
 **Frameworks & APIs**  
-`LangChain` • `FastAPI` • `Flask` • `Streamlit`  
+`LangChain` • `Langgraph` • `FastAPI` • `Flask` • `Streamlit`  
 
 **Cloud & Infrastructure**  
 `GCP` • `AWS` • `Azure` • `Docker` • `CI/CD`  
